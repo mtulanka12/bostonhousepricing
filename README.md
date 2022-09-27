@@ -26,3 +26,5 @@ conda activate venv/
 ## git config --global user.name "mtulanka12"
 
 ## git config --global user.email "mtulanka@gmail.com"
+
+## git .add
